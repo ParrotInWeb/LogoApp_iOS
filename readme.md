@@ -3,8 +3,8 @@
 This app is very light. It contains only the logo and text from the blog testingdostepnosci.pl. This app was created to represent a DOM object from an iOS app for one of the blog entries.
 
 
-![](docs/AppiumInsector1.png)
-![](docs/AppiumInsector2.png)
+![](docs/AppiumInspector1.png)
+![](docs/AppiumInspector2.png)
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
